@@ -1,4 +1,4 @@
-# Vehicle Stock & Profitability Analysis
+# Análisis de Stock y Rentabilidad de Vehículos
 
 Este proyecto consiste en un análisis del stock de vehículos de una agencia ficticia llamada **DS Auto Analytics**, con el objetivo de comprender la composición del inventario y evaluar su rentabilidad potencial.
 
